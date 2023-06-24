@@ -1,0 +1,24 @@
+{
+  "name": "@rodrigofplourenco/reverse-sentence",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/prettier/bin-prettier.js . --write"
+  },
+  "keywords": [],
+  "author": "Rodrigo Lourenço",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigofplourenco/reverse-sentence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rodrigofplourenco/reverse-sentence/issues"
+  },
+  "homepage": "https://github.com/rodrigofplourenco/reverse-sentence#readme",
+  "devDependencies": {
+    "prettier": "2.8.8"
+  }
+}
